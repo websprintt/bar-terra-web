@@ -1,0 +1,6 @@
+{
+  "name": "Bar Terra - Tapas & Deportes",
+  "description": "Landing page premium, interactiva y ultra-moderna de Bar Terra en Ciudad Real. Carta digital, eventos deportivos en directo y opiniones de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
