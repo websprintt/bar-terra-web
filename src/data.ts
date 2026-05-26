@@ -1,8 +1,8 @@
 import { MenuItem, BreakfastItem, RacionItem, BocadilloItem, WineBeerItem, Review, SportsEvent, FAQItem } from './types';
 
 export const IMAGES = {
-  hero: 'src/assets/images/bar_terra_hero_1779824535578.png',
-  tapasFeatured: 'src/assets/images/bar_terra_tapas_1779824555012.png',
+  hero: 'https://github.com/websprintt/bar-terra-web/raw/dc2ce9759457054520b5d3679624baf507e152ef/src/assets/images/bar_terra_hero_1779824535578.png',
+  tapasFeatured: 'https://github.com/websprintt/bar-terra-web/raw/dc2ce9759457054520b5d3679624baf507e152ef/src/assets/images/bar_terra_tapas_1779824555012.png',
   raciones: 'https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=600',
   bocadillos: 'https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&q=80&w=600',
   tortillas: 'https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&q=80&w=600',
